@@ -37,8 +37,10 @@ Segue a lista de tarefas a serem desenvolvidas no projeto:
         python manager.py runserver
 
 ```
-- [] Alterar o idioma do projeto `pt-br`
-- [] Alterear timexone do projeto para `America/Sao_Paulo`
+- [X] Alterar o idioma do projeto `pt-br`
+    - Abrir o arquivo settings.py e na linha 106 LANGUAGE_CODE = `en-us` alterar para `pt-br`
+- [X] Alterear timexone do projeto para `America/Sao_Paulo`
+    - Abrir o arquivo settings.py e na linha 108 TIME_ZONE = 'America/Sao_Paulo'
 - [] Criar o APP Contro_de_Vendas
 - [] Registrar o APP
 - [] Configurar rota Inicial (index)
