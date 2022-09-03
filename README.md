@@ -25,7 +25,10 @@ Segue a lista de tarefas a serem desenvolvidas no projeto:
 ```
     python -m pip install django==3.2
 ```
-- [] Criar o projeto Controle_Venda_vcr
+- [X] Criar o projeto Controle_Venda_vcr
+```
+    django-admin.py startproject Controle_Venda_VCR_Project
+```
 - [] Subir o servidor e testar o projeto
 - [] Alterar o idioma do projeto `pt-br`
 - [] Alterear timexone do projeto para `America/Sao_Paulo`
