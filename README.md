@@ -16,7 +16,11 @@ Segue a lista de tarefas a serem desenvolvidas no projeto:
 - [X] Pré-requisitos
     - [X] Instalar o Python
     - [X] Instalar Visual Studio Code
-- [] Criar e ativar o ambiente virtual
+- [X] Criar e ativar o ambiente virtual
+```
+    python -m venv .\venv\
+    venv\Scripts\activate 
+```
 - [] Inatalar Django
 - [] Criar o projeto Controle_Venda_vcr
 - [] Subir o servidor e testar o projeto
