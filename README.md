@@ -16,7 +16,12 @@ Segue a lista de tarefas a serem desenvolvidas no projeto:
 - [X] Pré-requisitos
     - [X] Instalar o Python
     - [X] Instalar Visual Studio Code
-
+- [X] Criar e ativar oambiente virtual
+- [X] Inatalar Django
+- [X] Criar o projeto Controle_Venda_vcr
+- [X] Subir o servidor e testar o projeto para 
+- [X] Alterar o idioma do projeto
+- [X] Instalar Visual Studio Code
 
 ## 📝 Licença
 Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
