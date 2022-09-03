@@ -6,7 +6,7 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 <img src="img.png" alt="exemplo imagem">
-> Uma aplicação web de controle de venda desenvolvida durante o curso de Python no Senac de America em paralelo as aulas para melhorar e aumentar meu conhecimento. O APP vai receber e armazenar as vendas.
+> Uma aplicação web de controle de venda desenvolvida durante o curso de Python no Senac de America em paralelo as aulas para melhorar e aumentar meu conhecimento. O APP vai receber e armazenar as vendas. testando
 
 ### Lista de tarefas
 Segue a lista de tarefas a serem desenvolvidas no projeto:
