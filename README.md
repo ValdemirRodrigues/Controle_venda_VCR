@@ -16,13 +16,17 @@ Segue a lista de tarefas a serem desenvolvidas no projeto:
 - [X] Pré-requisitos
     - [X] Instalar o Python
     - [X] Instalar Visual Studio Code
-- [X] Criar e ativar oambiente virtual
-- [X] Inatalar Django
-- [X] Criar o projeto Controle_Venda_vcr
-- [X] Subir o servidor e testar o projeto para 
-- [X] Alterar o idioma do projeto
-- [X] Instalar Visual Studio Code
-
+- [] Criar e ativar o ambiente virtual
+- [] Inatalar Django
+- [] Criar o projeto Controle_Venda_vcr
+- [] Subir o servidor e testar o projeto
+- [] Alterar o idioma do projeto `pt-br`
+- [] Alterear timexone do projeto para `America/Sao_Paulo`
+- [] Criar o APP Contro_de_Vendas
+- [] Registrar o APP
+- [] Configurar rota Inicial (index)
+- [] Criar a view para a rota inicial 
+- [] Cria o  arquivo index.html
 ## 📝 Licença
 Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
 [⬆ Voltar ao topo](#nome-do-projeto)<br>
