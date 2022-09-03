@@ -21,7 +21,10 @@ Segue a lista de tarefas a serem desenvolvidas no projeto:
     python -m venv .\venv\
     venv\Scripts\activate 
 ```
-- [] Inatalar Django
+- [X] Inatalar Django
+```
+    python -m pip install django==3.2
+```
 - [] Criar o projeto Controle_Venda_vcr
 - [] Subir o servidor e testar o projeto
 - [] Alterar o idioma do projeto `pt-br`
