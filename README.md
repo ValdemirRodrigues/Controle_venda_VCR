@@ -29,7 +29,14 @@ Segue a lista de tarefas a serem desenvolvidas no projeto:
 ```
     django-admin.py startproject Controle_Venda_VCR_Project
 ```
-- [] Subir o servidor e testar o projeto
+- [X] Subir o servidor e testar o projeto
+```
+    abrir pasta projeto
+        cd Controle_Venda_VCR_Project
+    executtar projeto no servidor
+        python manager.py runserver
+
+```
 - [] Alterar o idioma do projeto `pt-br`
 - [] Alterear timexone do projeto para `America/Sao_Paulo`
 - [] Criar o APP Contro_de_Vendas
